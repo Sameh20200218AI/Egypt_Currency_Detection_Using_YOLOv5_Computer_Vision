@@ -75,7 +75,7 @@ This project focuses on detecting and classifying Egyptian currency notes using 
 ---
 
 ## 🖼️ Results
-![Sample Detection](assets/sample_detection.png)
+![F1_curve(1).png](https://github.com/Sameh20200218AI/Egypt_Currency_Detection_Using_YOLOv5_Computer_Vision/blob/main/F1_curve%20(1).png)
 ![Sample Detection](assets/sample_detection.png)
 ![Sample Detection](assets/sample_detection.png)
 ![Sample Detection](assets/sample_detection.png)
