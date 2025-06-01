@@ -75,4 +75,8 @@ This project focuses on detecting and classifying Egyptian currency notes using 
 ---
 
 ## 🖼️ Results
-
+![Sample Detection](assets/sample_detection.png)
+![Sample Detection](assets/sample_detection.png)
+![Sample Detection](assets/sample_detection.png)
+![Sample Detection](assets/sample_detection.png)
+![Sample Detection](assets/sample_detection.png)
